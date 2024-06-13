@@ -7,7 +7,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 vergilgao/mdc:latest
-realwang/fr10
-realwang/nas-tools-unlock
+realwang/fr10:3.0
+realwang/nas-tools-unlock:3.2.2
 
 
